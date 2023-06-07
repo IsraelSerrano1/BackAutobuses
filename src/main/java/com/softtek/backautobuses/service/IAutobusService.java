@@ -1,4 +1,4 @@
-package com.softtek.backautobuses.modelo.service;
+package com.softtek.backautobuses.service;
 
 import com.softtek.backautobuses.modelo.Autobus;
 
